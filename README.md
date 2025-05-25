@@ -13,7 +13,7 @@ But hey, I’m not just about the backend — I can build slick UIs with **Next.
 - **Databases**: SQL Server, PostgreSQL  
 - **Frontend**: Next.js, basic HTML/CSS/JS  
 - **Mobile**: Flutter (yep, I’m in mobile too!)  
-- **Tools & Other**: Dapper, Git, Docker (basic), Swagger, Postman
+- **Tools & Other**: Git, Docker (basic), Swagger, Postman
 
 ---
 
@@ -31,7 +31,7 @@ But hey, I’m not just about the backend — I can build slick UIs with **Next.
 
 Wanna build something cool, geek out about tech, or just say hi?
 
-- 📧 [youremail@example.com](mailto:pnhphuong.work1@gmail.com)  
+- 📧 [pnhphuong.work1@gmail.com](mailto:pnhphuong.work1@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/not-yet-hehe/)
 
 ---
