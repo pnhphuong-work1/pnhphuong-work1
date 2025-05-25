@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm Phương  
 
 I'm a **Junior Backend Developer** on paper, but really... I'm a **full-stack dev in the making** 😎  
 I code servers with **C# & ASP.NET Core**, shape databases with **SQL Server & PostgreSQL**, and talk to the frontend with clean **RESTful APIs** (and yes, I document them with Swagger like a pro).
